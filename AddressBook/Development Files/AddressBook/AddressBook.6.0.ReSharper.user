@@ -1,0 +1,606 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:Contact.cs" caret="271" fromTop="8" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:CustomTextBox.cs" caret="290" fromTop="10" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:ToolBarButton.cs" caret="829" fromTop="26" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:CustomLabel.cs" caret="367" fromTop="14" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:CustomImage.cs" caret="182" fromTop="4" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml" caret="0" fromTop="0" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="18009" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="29573" fromTop="14" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="29569" fromTop="15" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="29322" fromTop="9" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="27761" fromTop="6" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="1661" fromTop="12" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="28160" fromTop="21" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="30372" fromTop="23" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="30854" fromTop="13" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="32935" fromTop="10" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="33635" fromTop="19" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="32482" fromTop="11" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="29950" fromTop="9" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="33693" fromTop="11" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="30759" fromTop="10" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="32712" fromTop="11" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="32521" fromTop="9" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="3022" fromTop="10" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="34318" fromTop="24" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="11308" fromTop="9" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="10113" fromTop="5" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="6375" fromTop="12" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="15029" fromTop="21" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="35034" fromTop="22" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="275" fromTop="5" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="19456" fromTop="15" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="19942" fromTop="24" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="21277" fromTop="20" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="26073" fromTop="27" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="20427" fromTop="14" />
+      <File id="CC85262E-B808-4C27-840D-7C0C7A6801ED/f:MainWindow.xaml.cs" caret="18009" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:AddressBook.MainWindow">
+      <Item value="Title" priority="27" />
+      <Item value="Width" priority="135" />
+      <Item value="Height" priority="26" />
+      <Item value="Content" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="this" priority="735" />
+      <Item value="ToolBar`0" priority="63" />
+      <Item value="new" priority="4095" />
+      <Item value="ToolBar" priority="57" />
+      <Item value="Canvas`0" priority="255" />
+      <Item value="Canvas" priority="173" />
+      <Item value="mainCanvas" priority="127" />
+      <Item value="SolidColorBrush" priority="579" />
+      <Item value="Color`0" priority="159" />
+      <Item value="mainToolBar" priority="607" />
+      <Item value="Button`0" priority="159" />
+      <Item value="button" priority="96" />
+      <Item value="Button" priority="115" />
+      <Item value="using" priority="216" />
+      <Item value="System" priority="217" />
+      <Item value="Windows" priority="107" />
+      <Item value="Controls" priority="107" />
+      <Item value="public" priority="607" />
+      <Item value="ToolBarButton`0" priority="63" />
+      <Item value="CustomImage`0" priority="127" />
+      <Item value="String`0" priority="31" />
+      <Item value="DockPanel`0" priority="447" />
+      <Item value="DockPanel" priority="86" />
+      <Item value="icon" priority="63" />
+      <Item value="Dock`0" priority="351" />
+      <Item value="TextBlock`0" priority="63" />
+      <Item value="TextBlock" priority="86" />
+      <Item value="toolBarButtonTextBlock" priority="159" />
+      <Item value="text" priority="31" />
+      <Item value="toolBarButtonDockPanel" priority="95" />
+      <Item value="Content" priority="31" />
+      <Item value="editButton" priority="159" />
+      <Item value="ToolBarButton" priority="231" />
+      <Item value="CustomImage" priority="406" />
+      <Item value="Center" priority="67" />
+      <Item value="addButton" priority="127" />
+      <Item value="private" priority="1055" />
+      <Item value="int" priority="415" />
+      <Item value="saveButton" priority="127" />
+      <Item value="STANDARD_ICON_SIZE" priority="191" />
+      <Item value="deleteButton" priority="127" />
+      <Item value="searchButton" priority="127" />
+      <Item value="mainDockPanel" priority="191" />
+      <Item value="Top" priority="84" />
+      <Item value="Colors`0" priority="543" />
+      <Item value="refreshButton" priority="159" />
+      <Item value="helpButton" priority="223" />
+      <Item value="Right" priority="67" />
+      <Item value="Thickness" priority="289" />
+      <Item value="Grid`0" priority="703" />
+      <Item value="Grid" priority="115" />
+      <Item value="toolBarGrid" priority="255" />
+      <Item value="ColumnDefinition`0" priority="31" />
+      <Item value="ColumnDefinition" priority="144" />
+      <Item value="for" priority="191" />
+      <Item value="i" priority="383" />
+      <Item value="true" priority="1279" />
+      <Item value="helpToolBar" priority="223" />
+      <Item value="Left" priority="50" />
+      <Item value="bodyGrid" priority="479" />
+      <Item value="RowDefinition" priority="57" />
+      <Item value="bodyDockPanel" priority="319" />
+      <Item value="userProfileCanvas" priority="768" />
+      <Item value="addressBookGrid" priority="735" />
+      <Item value="Stretch" priority="101" />
+      <Item value="HorizontalAlignment" priority="31" />
+      <Item value="VerticalAlignment" priority="31" />
+      <Item value="dataGridCanvas" priority="95" />
+      <Item value="Width" priority="96" />
+      <Item value="GridViewHeaderRowPresenter`0" priority="32" />
+      <Item value="ColumnSpaceDistribution`0" priority="32" />
+      <Item value="double" priority="97" />
+      <Item value="false" priority="1183" />
+      <Item value="statusBar" priority="417" />
+      <Item value="StatusBar" priority="57" />
+      <Item value="Bottom" priority="33" />
+      <Item value="StatusBar`0" priority="31" />
+      <Item value="userPictureCanvas" priority="191" />
+      <Item value="StackPanel`0" priority="31" />
+      <Item value="StackPanel" priority="58" />
+      <Item value="ScrollBar`0" priority="31" />
+      <Item value="ScrollViewer`0" priority="31" />
+      <Item value="ScrollViewer" priority="28" />
+      <Item value="userProfileScrollViewer" priority="159" />
+      <Item value="AddressBook" priority="31" />
+      <Item value="DataGrid`0" priority="31" />
+      <Item value="DataGrid" priority="28" />
+      <Item value="addressBookDataGrid" priority="799" />
+      <Item value="userPictureStackPanel" priority="511" />
+      <Item value="string" priority="1689" />
+      <Item value="get" priority="65" />
+      <Item value="Contact`0" priority="193" />
+      <Item value="void" priority="607" />
+      <Item value="contacts" priority="127" />
+      <Item value="try" priority="191" />
+      <Item value="Contact" priority="58" />
+      <Item value="Default_Number" priority="31" />
+      <Item value="First_Name" priority="32" />
+      <Item value="reader" priority="392" />
+      <Item value="Last_Name" priority="32" />
+      <Item value="Address" priority="32" />
+      <Item value="Home_Phone_No" priority="32" />
+      <Item value="Work_Phone_No" priority="32" />
+      <Item value="Email" priority="32" />
+      <Item value="Website" priority="32" />
+      <Item value="Group" priority="32" />
+      <Item value="Image_URL" priority="32" />
+      <Item value="exception" priority="98" />
+      <Item value="finally" priority="159" />
+      <Item value="refreshDataGrid`0" priority="223" />
+      <Item value="defaultUserPicture" priority="31" />
+      <Item value="static" priority="159" />
+      <Item value="userPictureImage" priority="159" />
+      <Item value="Text" priority="31" />
+      <Item value="object" priority="383" />
+      <Item value="EventArgs`0" priority="383" />
+      <Item value="DEFAULT_USER_PICTURE_IMAGE" priority="287" />
+      <Item value="STANDARD_USER_PICTURE_SIZE" priority="159" />
+      <Item value="Description" priority="32" />
+      <Item value="List" priority="95" />
+      <Item value="List&lt;string&gt;" priority="57" />
+      <Item value="while" priority="31" />
+      <Item value="imageUrl" priority="255" />
+      <Item value="if" priority="447" />
+      <Item value="userImage" priority="127" />
+      <Item value="imageLink" priority="287" />
+      <Item value="refreshUserImage`0" priority="127" />
+      <Item value="pictureHeaderTextBlock" priority="191" />
+      <Item value="BrowseImageCanvas`0" priority="31" />
+      <Item value="BrowseImageCanvas" priority="86" />
+      <Item value="Label`0" priority="95" />
+      <Item value="Label" priority="57" />
+      <Item value="imageSourceLabel" priority="95" />
+      <Item value="TextBox" priority="86" />
+      <Item value="imageSourceTextBox" priority="607" />
+      <Item value="browseButton" priority="255" />
+      <Item value="else" priority="319" />
+      <Item value="Convert`0" priority="63" />
+      <Item value="catch" priority="63" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="Microsoft" priority="92" />
+      <Item value="Win32" priority="53" />
+      <Item value="OpenFileDialog`0" priority="31" />
+      <Item value="OpenFileDialog" priority="28" />
+      <Item value="browseForImageFileDialog" priority="95" />
+      <Item value="browseImageCanvas" priority="287" />
+      <Item value="createBrowseImageCanvas`0" priority="95" />
+      <Item value="bool" priority="351" />
+      <Item value="status1" priority="31" />
+      <Item value="status2" priority="31" />
+      <Item value="status3" priority="31" />
+      <Item value="status4" priority="31" />
+      <Item value="status5" priority="31" />
+      <Item value="status6" priority="31" />
+      <Item value="status7" priority="31" />
+      <Item value="status8" priority="31" />
+      <Item value="enableOrDisableComponents`0" priority="127" />
+      <Item value="fileName" priority="63" />
+      <Item value="MessageBox`0" priority="191" />
+      <Item value="MessageBoxButton`0" priority="127" />
+      <Item value="MessageBoxImage`0" priority="191" />
+      <Item value="GroupBox`0" priority="31" />
+      <Item value="GroupBox" priority="28" />
+      <Item value="userProfileGroupBox" priority="63" />
+      <Item value="CustomLabel`0" priority="63" />
+      <Item value="labelText" priority="31" />
+      <Item value="VisualYSnappingGuidelines" priority="31" />
+      <Item value="y" priority="63" />
+      <Item value="firstNameLabel" priority="63" />
+      <Item value="CustomLabel" priority="289" />
+      <Item value="lastNameLabel" priority="95" />
+      <Item value="defaultPhoneNoLabel" priority="63" />
+      <Item value="homePhoneNoLabel" priority="63" />
+      <Item value="workPhoneNoLabel" priority="63" />
+      <Item value="addressLabel" priority="63" />
+      <Item value="emailLabel" priority="95" />
+      <Item value="websiteLabel" priority="63" />
+      <Item value="noteLabel" priority="63" />
+      <Item value="TextBox`0" priority="95" />
+      <Item value="CustomTextBox`0" priority="31" />
+      <Item value="firstNameTextBox" priority="255" />
+      <Item value="CustomTextBox" priority="231" />
+      <Item value="groupLabel" priority="63" />
+      <Item value="lastNameTextBox" priority="223" />
+      <Item value="ComboBox`0" priority="63" />
+      <Item value="ComboBox" priority="58" />
+      <Item value="groupComboBox" priority="511" />
+      <Item value="defaultPhoneNoTextBox" priority="255" />
+      <Item value="homePhoneNoTextBox" priority="255" />
+      <Item value="workPhoneNoTextBox" priority="255" />
+      <Item value="addressTextBox" priority="383" />
+      <Item value="Visible" priority="16" />
+      <Item value="Wrap" priority="16" />
+      <Item value="emailTextBox" priority="255" />
+      <Item value="websiteTextBox" priority="415" />
+      <Item value="noteTextBox" priority="287" />
+      <Item value="status" priority="319" />
+      <Item value="FontFamily" priority="28" />
+      <Item value="FontStyles`0" priority="31" />
+      <Item value="disableUserProfile`0" priority="31" />
+      <Item value="disableUserProfileContents`0" priority="31" />
+      <Item value="currentContact" priority="319" />
+      <Item value="currentContactInfo" priority="31" />
+      <Item value="enableUserProfileContents`0" priority="95" />
+      <Item value="connection" priority="191" />
+      <Item value="OleDbCommand`0" priority="95" />
+      <Item value="command" priority="258" />
+      <Item value="OleDbCommand" priority="86" />
+      <Item value="edit" priority="95" />
+      <Item value="DialogResult" priority="188" />
+      <Item value="CommonDialog`0" priority="31" />
+      <Item value="result" priority="195" />
+      <Item value="MessageBoxResult`0" priority="63" />
+      <Item value="Yes" priority="50" />
+      <Item value="add" priority="31" />
+      <Item value="MessageBoxOptions`0" priority="31" />
+      <Item value="Window`0" priority="31" />
+      <Item value="Window" priority="28" />
+      <Item value="searchWindow" priority="479" />
+      <Item value="IO" priority="26" />
+      <Item value="CenterOwner" priority="16" />
+      <Item value="ToolWindow" priority="16" />
+      <Item value="searchCanvas" priority="255" />
+      <Item value="searchByComboBox" priority="320" />
+      <Item value="searchForLabel" priority="127" />
+      <Item value="searchTextBox" priority="63" />
+      <Item value="searchForTextBox" priority="351" />
+      <Item value="closeButton" priority="223" />
+      <Item value="searchForButton" priority="191" />
+      <Item value="NavigationEventArgs`0" priority="31" />
+      <Item value="NoResize" priority="16" />
+      <Item value="null" priority="31" />
+      <Item value="switch" priority="31" />
+      <Item value="case" priority="159" />
+      <Item value="sqlSyntex" priority="191" />
+      <Item value="break" priority="159" />
+      <Item value="List&lt;Contact&gt;" priority="28" />
+      <Item value="currentContactForSearch" priority="63" />
+      <Item value="SystemColors`0" priority="31" />
+      <Item value="FontWeights`0" priority="63" />
+      <Item value="FontStyle" priority="31" />
+      <Item value="Cursor" priority="31" />
+      <Item value="Diagnostics" priority="26" />
+      <Item value="Process`0" priority="26" />
+      <Item value="FileNotFoundException`0" priority="31" />
+      <Item value="clearUserProfileContent`0" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Canvas">
+      <Item value="Background" priority="161" />
+      <Item value="Children" priority="593" />
+      <Item value="MaxWidth" priority="26" />
+      <Item value="HorizontalAlignment" priority="80" />
+      <Item value="Width" priority="53" />
+      <Item value="Height" priority="80" />
+      <Item value="MinWidth" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Color">
+      <Item value="FromRgb`0" priority="323" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="1272" />
+      <Item value="Remove`0" priority="53" />
+      <Item value="Clear`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="Content" priority="107" />
+      <Item value="MinWidth" priority="26" />
+      <Item value="Click" priority="107" />
+      <Item value="IsEnabled" priority="26" />
+      <Item value="Margin" priority="53" />
+      <Item value="Width" priority="53" />
+      <Item value="Height" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ToolBar">
+      <Item value="Items" priority="269" />
+      <Item value="FlowDirection" priority="26" />
+      <Item value="Background" priority="53" />
+      <Item value="MaxWidth" priority="53" />
+      <Item value="HorizontalAlignment" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="512" />
+      <Item value="Clear`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.DockPanel">
+      <Item value="SetDock`0" priority="296" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Dock">
+      <Item value="Left" priority="80" />
+      <Item value="Bottom" priority="161" />
+      <Item value="Top" priority="26" />
+      <Item value="Right" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="80" />
+      <Item value="HorizontalAlignment" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AddressBook.ToolBarButton">
+      <Item value="Content" priority="26" />
+      <Item value="MinWidth" priority="26" />
+      <Item value="HorizontalAlignment" priority="26" />
+      <Item value="Margin" priority="26" />
+      <Item value="VerticalAlignment" priority="26" />
+      <Item value="Click" priority="188" />
+      <Item value="IsEnabled" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DockPanel">
+      <Item value="Children" priority="215" />
+      <Item value="MaxHeight" priority="26" />
+      <Item value="HorizontalAlignment" priority="26" />
+      <Item value="VerticalAlignment" priority="53" />
+      <Item value="Background" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="LightSlateGray" priority="26" />
+      <Item value="LightGray" priority="188" />
+      <Item value="Red" priority="162" />
+      <Item value="LightCyan" priority="26" />
+      <Item value="Blue" priority="80" />
+      <Item value="DarkGray" priority="26" />
+      <Item value="LightCoral" priority="26" />
+      <Item value="LightBlue" priority="53" />
+      <Item value="LightSteelBlue" priority="26" />
+      <Item value="Azure" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Grid">
+      <Item value="ColumnDefinitions" priority="134" />
+      <Item value="ShowGridLines" priority="107" />
+      <Item value="Children" priority="161" />
+      <Item value="Background" priority="80" />
+      <Item value="RowDefinitions" priority="53" />
+      <Item value="VerticalAlignment" priority="161" />
+      <Item value="MaxHeight" priority="26" />
+      <Item value="MaxWidth" priority="26" />
+      <Item value="HorizontalAlignment" priority="107" />
+      <Item value="Height" priority="53" />
+      <Item value="Width" priority="80" />
+      <Item value="MinWidth" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ColumnDefinitionCollection">
+      <Item value="Add`0" priority="136" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.Grid">
+      <Item value="SetColumn`0" priority="161" />
+      <Item value="SetIsSharedSizeScope`0" priority="26" />
+      <Item value="SetColumnSpan`0" priority="80" />
+      <Item value="SetRow`0" priority="80" />
+      <Item value="SetRowSpan`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RowDefinitionCollection">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.HorizontalAlignment">
+      <Item value="Right" priority="53" />
+      <Item value="Left" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.VerticalAlignment">
+      <Item value="Bottom" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="NaN" priority="82" />
+      <Item value="MaxValue" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Primitives.StatusBar">
+      <Item value="Background" priority="53" />
+      <Item value="MaxHeight" priority="26" />
+      <Item value="VerticalAlignment" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ScrollViewer">
+      <Item value="Background" priority="26" />
+      <Item value="Content" priority="26" />
+      <Item value="HorizontalContentAlignment" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="MaxWidth" priority="26" />
+      <Item value="HorizontalAlignment" priority="26" />
+      <Item value="VerticalAlignment" priority="26" />
+      <Item value="Children" priority="269" />
+      <Item value="MaxHeight" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Clear`0" priority="80" />
+      <Item value="Add`0" priority="83" />
+      <Item value="IndexOf`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="496" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbDataReader">
+      <Item value="GetValue`0" priority="306" />
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DataGrid">
+      <Item value="ItemsSource" priority="53" />
+      <Item value="IsReadOnly" priority="26" />
+      <Item value="Background" priority="26" />
+      <Item value="Items" priority="80" />
+      <Item value="SelectionChanged" priority="26" />
+      <Item value="SelectedIndex" priority="161" />
+      <Item value="SelectedItem" priority="80" />
+      <Item value="IsEnabled" priority="26" />
+      <Item value="AlternatingRowBackground" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AddressBook.CustomImage">
+      <Item value="ClearValue`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AddressBook.BrowseImageCanvas">
+      <Item value="Width" priority="26" />
+      <Item value="Height" priority="27" />
+      <Item value="Background" priority="26" />
+      <Item value="Children" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Content" priority="53" />
+      <Item value="Margin" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="566" />
+      <Item value="Width" priority="53" />
+      <Item value="IsEnabled" priority="53" />
+      <Item value="IsReadOnly" priority="26" />
+      <Item value="Margin" priority="26" />
+      <Item value="Focus`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="809" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="998" />
+      <Item value="ToLower`0" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.OpenFileDialog">
+      <Item value="Filter" priority="26" />
+      <Item value="ShowDialog`0" priority="26" />
+      <Item value="FileName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxButton">
+      <Item value="OK" priority="107" />
+      <Item value="YesNo" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Warning" priority="53" />
+      <Item value="Error" priority="53" />
+      <Item value="Question" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.GroupBox">
+      <Item value="Header" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AddressBook.CustomLabel">
+      <Item value="Content" priority="26" />
+      <Item value="Margin" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AddressBook.CustomTextBox">
+      <Item value="Width" priority="26" />
+      <Item value="Margin" priority="26" />
+      <Item value="AcceptsReturn" priority="26" />
+      <Item value="Height" priority="26" />
+      <Item value="VerticalScrollBarVisibility" priority="26" />
+      <Item value="TextWrapping" priority="26" />
+      <Item value="Background" priority="26" />
+      <Item value="IsReadOnly" priority="53" />
+      <Item value="FontFamily" priority="26" />
+      <Item value="FontStyle" priority="53" />
+      <Item value="IsEnabled" priority="216" />
+      <Item value="Text" priority="1214" />
+      <Item value="TextAlignment" priority="26" />
+      <Item value="Foreground" priority="26" />
+      <Item value="FontWeight" priority="53" />
+      <Item value="Cursor" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="Items" priority="269" />
+      <Item value="Width" priority="53" />
+      <Item value="Margin" priority="53" />
+      <Item value="SelectedIndex" priority="80" />
+      <Item value="IsEnabled" priority="26" />
+      <Item value="SelectedItem" priority="269" />
+      <Item value="SelectionBoxItem" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.ScrollBarVisibility">
+      <Item value="Auto" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.FontStyles">
+      <Item value="Oblique" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AddressBook.Contact">
+      <Item value="First_Name" priority="26" />
+      <Item value="Last_Name" priority="26" />
+      <Item value="Group" priority="26" />
+      <Item value="Default_Phone_Number" priority="80" />
+      <Item value="Home_Phone_No" priority="26" />
+      <Item value="Work_Phone_No" priority="26" />
+      <Item value="Address" priority="26" />
+      <Item value="Email" priority="26" />
+      <Item value="Website" priority="26" />
+      <Item value="Description" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbConnection">
+      <Item value="Open`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBoxItem">
+      <Item value="Content" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.OleDb.OleDbCommand">
+      <Item value="ExecuteNonQuery`0" priority="26" />
+      <Item value="Dispose`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Window">
+      <Item value="Title" priority="26" />
+      <Item value="Width" priority="26" />
+      <Item value="Height" priority="26" />
+      <Item value="Show`0" priority="26" />
+      <Item value="WindowStartupLocation" priority="26" />
+      <Item value="WindowStyle" priority="53" />
+      <Item value="WindowState" priority="26" />
+      <Item value="ResizeMode" priority="26" />
+      <Item value="Close`0" priority="26" />
+      <Item value="Topmost" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Input.Cursors">
+      <Item value="Hand" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Process">
+      <Item value="Start`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
